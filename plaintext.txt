@@ -1,0 +1,8 @@
+git init
+  723  git add .
+  724  git commit -m "first commit"
+  725  git branch -M main
+  726  git remote add origin git@github.com:CyberRide/GTA1.git
+  727  git remote set-url origin https://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@github.com/CyberRide/GTA1.git
+  728  git push -u origin main
+
